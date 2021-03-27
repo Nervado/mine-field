@@ -1,6 +1,6 @@
 ## Mine Field
 
-Sample Mine-field game made in Java using Swing.
+Simple Mine-field game made in Java using Swing.
 
 ## Run
 
